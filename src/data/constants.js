@@ -371,14 +371,14 @@ export const experiences = [
     img: "https://tse4.mm.bing.net/th?id=OIP.0Ow_s91lCF9AjTahsSPr0gHaHw&pid=Api&P=0&h=220",
     role: "Frontend Web developer",
     company: "fiverr",
-    date: "July 2021 - Nov 2023",
+    date: "July 2022 - Nov 2023",
     desc: "Delivered high-quality, responsive websites for diverse clients, utilizing HTML, CSS, JavaScript, and modern frameworks. Collaborated closely with clients to understand their vision, ensuring each project exceeded expectations. Continuously applied cutting-edge technologies, enhancing both user experience and site performance. Strengthened communication, problem-solving skills, and a deep passion for innovative web design.",
     skills: [
-      "ReactJS",
-      "Redux",
       "HTML",
       "CSS",
       "JavaScript",
+      "ReactJS",
+      "Redux",
     ],
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
   },
@@ -387,7 +387,7 @@ export const experiences = [
     img: "https://iconape.com/wp-content/files/pj/112108/png/upwork-1.png",
     role: "Graphic Desiger & Web Content Writer",
     company: "Upwork",
-    date: "Feb 2022 - Oct 2023",
+    date: "Aug 2021 - Jul 2022",
     desc: "As a versatile freelancer, I’ve crafted unique logos, cards, brochures, and more for diverse clients, ensuring each design aligns with their brand identity. Additionally, I’ve written engaging web content that resonates with audiences and enhances online presence. Collaborating closely with clients has deepened my skills and understanding, allowing me to consistently deliver high-quality work that exceeds expectations.",
     skills: [
       "Adobe Photoshop",
@@ -445,13 +445,15 @@ export const experiences = [
     img: "https://github.com/user-attachments/assets/5a68fb06-5625-44b9-bea5-190be186ed04",
     role: "Web Developer",
     company: "AUSES Society",
-    date: "Nov2023 - Present",
+    date: "Oct 2023 - Present",
     desc: "As an active member of the AUSES Society, I completed several web development projects that sharpened my technical skills and broadened my understanding of the field. Collaborating with fellow university students, I explored new technologies, exchanged innovative ideas, and deepened my knowledge. This experience not only enhanced my expertise in web development but also fostered strong teamwork and communication skills.",
     skills: [
-      "Leadership",
-      "Web Development",
       "HTML",
       "CSS",
+      "JavaScript",
+      "Web Development",
+
+
     ],
   },
   {
@@ -551,7 +553,7 @@ export const projects = [
   {
     id: 13,
     title: "SafeFundZ",
-    date: "Nov 2023 - Oct 2023",
+    date: "Oct 2023 - Nov 2023",
     description:
       " I created this captivating website consisting of a single home page. Utilizing HTML, CSS, and JavaScript, I meticulously designed the site with engaging transitions, dynamic transformations, animations, and intriguing designs.",
     image:
@@ -570,7 +572,7 @@ export const projects = [
   {
     id: 16,
     title: "envatomarket",
-    date: "Nov 2023 - Oct 2023",
+    date: "Oct 2023 - Nov 2023",
     description:
       "Meticulously crafted a captivating single home page, leveraging HTML and CSS. I integrated intriguing transitions, dynamic transformations, animations, and innovative designs to elevate the site's appeal. My goal was to deliver a high-quality digital solution that exceeded the client's expectations and showcased my expertise in web development.",
     image:
@@ -587,7 +589,7 @@ export const projects = [
   {
     id: 1,
     title: " IHA WEBSITE",
-    date: "Nov 2023 - Oct 2023",
+    date: "Oct 2023 - Nov 2023",
     description:
       "Crafted an engaging website comprising a single home page, meticulously designed using HTML and CSS.",
     image:
