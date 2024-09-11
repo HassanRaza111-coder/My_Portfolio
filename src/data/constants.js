@@ -442,7 +442,7 @@ export const experiences = [
   // },
   {
     id: 4,
-    img: "https://github.com/user-attachments/assets/5a68fb06-5625-44b9-bea5-190be186ed04",
+    img: "https://github.com/user-attachments/assets/f7a2c82c-e1cc-4680-820d-bbb8fc311d83",
     role: "Web Developer",
     company: "AUSES Society",
     date: "Oct 2023 - Present",
@@ -485,7 +485,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://github.com/user-attachments/assets/0129ac09-609b-4a9d-b6b2-6a52a83f801b",
+    img: "https://github.com/user-attachments/assets/f45ed596-e4ef-4dd9-8703-2c9e926b19d8",
     school: "R.B Memon Model Higher Secondary School, Khuhra",
     date: "Apr 2021 - Apr 2022",
     grade: "91.63%",
@@ -494,7 +494,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://github.com/user-attachments/assets/0129ac09-609b-4a9d-b6b2-6a52a83f801b",
+    img: "https://github.com/user-attachments/assets/f45ed596-e4ef-4dd9-8703-2c9e926b19d8",
     school: "R.B Memon Model School, Khuhra",
     date: "Apr 2019 - Apr 2020",
     grade: "81.88%",
@@ -670,6 +670,26 @@ export const projects = [
     category: "web app",
     github: "https://github.com/HASSANRAZA111/END_SEMSTER_ICT_PROJECT.git",
     webapp: "https://hassanraza111.github.io/END_SEMSTER_ICT_PROJECT/",
+    member: [
+      {
+        name: "Hassan Raza",
+        img: "https://github.com/user-attachments/assets/802f0d14-b966-4582-ae55-3c01e3e46206",
+        linkedin: "https://www.linkedin.com/in/𝐇𝐚𝐬𝐬𝐚𝐧-𝐑𝐚𝐳𝐚-997430297",
+        // github: "https://github.com/HASSANRAZA111",
+      },
+      {
+        name: "Shiraz Ahmed Khan",
+        img: "https://github.com/user-attachments/assets/49175ad9-7d75-4fa4-a778-806dc3063eb1",
+        linkedin: "https://www.linkedin.com/in/shiraz-ahmad-khan-42432b206/",
+        // github: "https://github.com/HASSANRAZA111/SpaceShooterGame.git",
+      },
+      {
+        name: "Musab Ejaz",
+        img: "https://github.com/user-attachments/assets/2571cdda-066a-4431-b71f-636f08a4b6e2",
+        linkedin: "https://linkedin.com/in/musab-ejaz-1a1166296",
+        // github: "https://github.com/HASSANRAZA111/SpaceShooterGame.git",
+      },
+    ],
     
   },
  
