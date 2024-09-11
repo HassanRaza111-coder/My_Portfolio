@@ -629,13 +629,13 @@ export const projects = [
     member: [
       {
         name: "Hassan Raza",
-        img: "https://github.com/user-attachments/assets/b85f605e-4999-474f-89aa-4512d7375f51",
+        img: "https://github.com/user-attachments/assets/802f0d14-b966-4582-ae55-3c01e3e46206",
         linkedin: "https://www.linkedin.com/in/𝐇𝐚𝐬𝐬𝐚𝐧-𝐑𝐚𝐳𝐚-997430297",
         // github: "https://github.com/HASSANRAZA111",
       },
       {
         name: "Musab Ejaz",
-        img: "https://github.com/user-attachments/assets/22c38420-0c10-4f0d-b2ed-10e429504234",
+        img: "https://github.com/user-attachments/assets/2571cdda-066a-4431-b71f-636f08a4b6e2",
         linkedin: "https://linkedin.com/in/musab-ejaz-1a1166296",
         // github: "https://github.com/HASSANRAZA111/SpaceShooterGame.git",
       },
