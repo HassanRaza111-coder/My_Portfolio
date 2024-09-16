@@ -11,7 +11,7 @@ export const Bio = {
   github: "https://github.com/HASSANRAZA111",
   resume:
     "https://drive.google.com/file/d/129a31iByF86ElnNKeOWAkSb2HMPF48Ra/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/𝐇𝐚𝐬𝐬𝐚𝐧-𝐑𝐚𝐳𝐚-997430297",
+  linkedin: "https://www.linkedin.com/in/hassan-raza-997430297/",
   github: "https://github.com/HASSANRAZA111",
   insta: "https://www.instagram.com/hassan_raza_memon1?igsh=YzVkODRmOTdmMw%3D%3D&utm_source=qr",
   facebook: "https://www.facebook.com/profile.php?id=100006806358447&mibextid=LQQJ4d",
