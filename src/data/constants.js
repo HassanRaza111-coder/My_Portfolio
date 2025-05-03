@@ -576,12 +576,14 @@ export const projects = [
     description:
       "Developed a real-time messaging platform enabling secure, room-based chat with live updates using WebSockets. Integrated JWT for authentication and MongoDB for data persistence. Showcased modern full-stack skills with responsive UI and efficient socket programming. It demonstrates efficient socket programming and modern full-stack development for seamless communication.",
     image:
-      "https://github.com/user-attachments/assets/ac091bb1-9d0c-4273-8870-61687045c19a",
+      "https://github.com/user-attachments/assets/eade8c49-b0a8-44f9-8bc4-7dfd8ee54bdd",
       tags: [
         "React.js",
         "Node.js",
         "Express.js",
         "MongoDB",
+        "MongoDb Atlas",
+        "Cloudinary",
         "Socket.io",
         "Tailwind CSS",
       ],
