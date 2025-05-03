@@ -571,21 +571,42 @@ export const projects = [
   },
   {
     id: 16,
-    title: "envatomarket",
-    date: "Oct 2023 - Nov 2023",
+    title: "RealTime-ChatApp",
+    date: "Dec 2024 - Jan 2025",
     description:
-      "Meticulously crafted a captivating single home page, leveraging HTML and CSS. I integrated intriguing transitions, dynamic transformations, animations, and innovative designs to elevate the site's appeal. My goal was to deliver a high-quality digital solution that exceeded the client's expectations and showcased my expertise in web development.",
+      "Developed a real-time messaging platform enabling secure, room-based chat with live updates using WebSockets. Integrated JWT for authentication and MongoDB for data persistence. Showcased modern full-stack skills with responsive UI and efficient socket programming. It demonstrates efficient socket programming and modern full-stack development for seamless communication.",
     image:
       "https://github.com/user-attachments/assets/ac091bb1-9d0c-4273-8870-61687045c19a",
       tags: [
-        "HTML",
-        "CSS",
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Socket.io",
+        "Tailwind CSS",
       ],
     category: "web app",
-    github: "https://github.com/HASSANRAZA111/envatomarket-website.git",
-    webapp: " https://hassanraza111.github.io/envatomarket-website/",
+    github: "https://github.com/HASSANRAZA111/FullStack_ChitChatApp.git",
+    webapp: " https://fullstack-chitchatapp.onrender.com",
 
   },
+  // {
+  //   id: 16,
+  //   title: "envatomarket",
+  //   date: "Oct 2023 - Nov 2023",
+  //   description:
+  //     "Meticulously crafted a captivating single home page, leveraging HTML and CSS. I integrated intriguing transitions, dynamic transformations, animations, and innovative designs to elevate the site's appeal. My goal was to deliver a high-quality digital solution that exceeded the client's expectations and showcased my expertise in web development.",
+  //   image:
+  //     "https://github.com/user-attachments/assets/ac091bb1-9d0c-4273-8870-61687045c19a",
+  //     tags: [
+  //       "HTML",
+  //       "CSS",
+  //     ],
+  //   category: "web app",
+  //   github: "https://github.com/HASSANRAZA111/envatomarket-website.git",
+  //   webapp: " https://hassanraza111.github.io/envatomarket-website/",
+
+  // },
   {
     id: 1,
     title: " IHA WEBSITE",
