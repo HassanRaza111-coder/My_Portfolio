@@ -428,7 +428,7 @@ export const experiences = [
     role: "Frontend Web developer",
     company: "fiverr",
     date: "July 2022 - Nov 2023",
-    desc: "Delivered high-quality, responsive websites for diverse clients, utilizing HTML, CSS, JavaScript, and modern frameworks. Collaborated closely with clients to understand their vision, ensuring each project exceeded expectations. Continuously applied cutting-edge technologies, enhancing both user experience and site performance. Strengthened communication, problem-solving skills, and a deep passion for innovative web design.",
+    desc: "Delivered high quality, responsive websites for diverse clients, utilizing HTML, CSS, JavaScript, and modern frameworks. Collaborated closely with clients to understand their vision, ensuring each project exceeded expectations. Continuously applied cutting edge technologies, enhancing both user experience and site performance. Strengthened communication, problem-solving skills, and a deep passion for innovative web design.",
     skills: [
       "HTML",
       "CSS",
@@ -444,11 +444,9 @@ export const experiences = [
     role: "Graphic Desiger & Web Content Writer",
     company: "Upwork",
     date: "Aug 2021 - Jul 2022",
-    desc: "As a versatile freelancer, I’ve crafted unique logos, cards, brochures, and more for diverse clients, ensuring each design aligns with their brand identity. Additionally, I’ve written engaging web content that resonates with audiences and enhances online presence. Collaborating closely with clients has deepened my skills and understanding, allowing me to consistently deliver high-quality work that exceeds expectations.",
+    desc: "As a versatile freelancer, I’ve crafted unique logos, cards, brochures, and more for diverse clients, ensuring each design aligns with their brand identity. Additionally, I’ve written engaging web content that resonates with audiences and enhances online presence. Collaborating closely with clients has deepened my skills and understanding, allowing me to consistently deliver high quality work that exceeds expectations.",
     skills: [
       "Adobe Photoshop",
-      "Adobe Illustrator",
-      "Adobe InDesign",
       "Canva",
       "Google Docs",
       "Ms Word",
@@ -518,7 +516,7 @@ export const experiences = [
     role: "Open Source Contributor ",
     company: "Digital Ocean Hacktoberfest",
     date: "June 2024 - Aug 2024",
-    desc: "Contributed to different open-source projects and learn from industry experts, which enhanced my technical skills and kept me current with emerging trends.",
+    desc: "Contributed to different open source projects and learn from industry experts, which enhanced my technical skills and kept me current with emerging trends.",
     skills: [
       "FullStack",
       "JavaScript",
@@ -536,7 +534,7 @@ export const education = [
     school: "Air University, Islamabad",
     date: "Sep 2023 - Sep 2027",
     grade: "3.18 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Software Engineering at Air University, Islamabad. I have completed 2 semesters and have a CGPA of 3.18. I have taken courses in Programming Fundamentals, Object-Oriented Programming, Database Management Systems, Software Requirements Engineering, and among others.",
+    desc: "I am currently pursuing a Bachelor's degree in Software Engineering at Air University, Islamabad. I have completed 2 semesters and have a CGPA of 3.18. I have taken courses in Programming Fundamentals, Object Oriented Programming, Database Management Systems, Software Requirements Engineering, and among others.",
     degree: "Bachelor of Science in Software Engineering",
   },
   {
@@ -630,7 +628,7 @@ export const projects = [
     title: "RealTime-ChatApp",
     date: "Dec 2024 - Jan 2025",
     description:
-      "Developed a real-time messaging platform enabling secure, room-based chat with live updates using WebSockets. Integrated JWT for authentication and MongoDB for data persistence. Showcased modern full-stack skills with responsive UI and efficient socket programming. It demonstrates efficient socket programming and modern full-stack development for seamless communication.",
+      "Developed a real time messaging platform enabling secure, room-based chat with live updates using WebSockets. Integrated JWT for authentication and MongoDB for data persistence. Showcased modern full-stack skills with responsive UI and efficient socket programming. It demonstrates efficient socket programming and modern full-stack development for seamless communication.",
     image:
       "https://github.com/user-attachments/assets/eade8c49-b0a8-44f9-8bc4-7dfd8ee54bdd",
       tags: [
@@ -699,7 +697,7 @@ export const projects = [
     title: "Space Shooter Game",
     date: "April 2023 - May 2024",
     description:
-      "In this classic game, you pilot a spaceship through intense battles against waves of enemies and monsters. you can collect power-ups, and unleash special abilities to take down formidable bosses. Built with C++ and SFML, the game showcases smooth graphics and sound effects, all crafted using Object-Oriented Programming techniques.",
+      "In this classic game, you pilot a spaceship through intense battles against waves of enemies and monsters. you can collect power ups, and unleash special abilities to take down formidable bosses. Built with C++ and SFML, the game showcases smooth graphics and sound effects, all crafted using Object Oriented Programming techniques.",
     image:"https://github.com/user-attachments/assets/c89bbaee-64c3-485d-8870-a0a1544fab31",
     tags: ["C++", "SFML"],
     category: "games",
@@ -803,7 +801,7 @@ export const projects = [
     title: "Candy Crush Game",
     date: "Dec 2023 - Jan 2024",
     description:
-      "Candy Crush Game in C++: Dive into a vibrant adventure with easy and hard modes. The game features a meticulously crafted menu with options like Play Game, Credits, Instructions, Scores, and Quit. Leveraging built-in libraries and eight user-defined functions, this project offers strategic candy swapping and progress tracking for hours of joy.",
+      "Candy Crush Game in C++: Dive into a vibrant adventure with easy and hard modes. The game features a meticulously crafted menu with options like Play Game, Credits, Instructions, Scores, and Quit. Leveraging built in libraries and eight user-defined functions, this project offers strategic candy swapping and progress tracking for hours of joy.",
     image:"https://github.com/user-attachments/assets/64599b7b-2b8c-43c1-8722-3373393a2fff",
     tags: ["C++"],
     category: "games",
