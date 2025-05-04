@@ -107,17 +107,7 @@ export const skills = [
       //   name: "Postgresql",
       //   image: "https://www.postgresql.org/media/img/about/press/elephant.png",
       // },
-      {
-        name: "MongoDB",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
-      },
        {
-        name: "MongoDB Atlas",
-        image:
-          "https://creazilla-store.fra1.digitaloceanspaces.com/icons/3247796/mongodb-icon-md.png",
-      },
-      {
         name: "MySQL",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
@@ -132,6 +122,17 @@ export const skills = [
         image:
           "https://logohistory.net/wp-content/uploads/2023/11/Oracle-Logo.svg",
       },
+      {
+        name: "MongoDB",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+      },
+       {
+        name: "MongoDB Atlas",
+        image:
+          "https://creazilla-store.fra1.digitaloceanspaces.com/icons/3247796/mongodb-icon-md.png",
+      },
+     
       {
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
@@ -188,15 +189,16 @@ export const skills = [
           "https://img.icons8.com/?size=96&id=13675&format=png",
       },
       
-      {
-        name: "Adobe XD",
-        image:
-          "https://img.icons8.com/?size=96&id=4VVL78edhbW9&format=png",
-      },
+     
       {
         name: "Canva",
         image:
           "https://github.com/user-attachments/assets/cd3d3257-a027-4a52-af4e-5cd4f23c7d0a",
+      },
+       {
+        name: "Adobe XD",
+        image:
+          "https://img.icons8.com/?size=96&id=4VVL78edhbW9&format=png",
       },
        {
         name: "Figma",
