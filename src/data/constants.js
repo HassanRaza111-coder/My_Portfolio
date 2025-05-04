@@ -400,7 +400,7 @@ export const skills = [
       {
         name: "BeautifulSoup",
         image:
-          "https://github.com/user-attachments/assets/6d3daa8e-d172-478c-b49a-58db9ef242ed",
+          "https://github.com/user-attachments/assets/c501f725-f17d-43f9-bfe7-c67394b5d263",
       },
       {
         name: "Selenium",
