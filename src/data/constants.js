@@ -311,11 +311,11 @@ export const skills = [
         image:
           "https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png",
       },
-      {
-        name: "Sk Learn Kit",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png",
-      },
+      // {
+      //   name: "Sk Learn Kit",
+      //   image:
+      //     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png",
+      // },
     ],
   },
   {
@@ -346,11 +346,11 @@ export const skills = [
         image:
           "https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png",
       },
-      {
-        name: "Sk Learn Kit",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png",
-      },
+      // {
+      //   name: "Sk Learn Kit",
+      //   image:
+      //     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png",
+      // },
     ],
   },
   {
