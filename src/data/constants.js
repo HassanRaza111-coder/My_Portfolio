@@ -178,16 +178,16 @@ export const skills = [
         image:
           "https://img.icons8.com/?size=96&id=13677&format=png",
       },
-      {
-        name: "Adobe Illustrator",
-        image:
-          "https://img.icons8.com/?size=96&id=13631&format=png",
-      },
-      {
-        name: "Adobe InDesign",
-        image:
-          "https://img.icons8.com/?size=96&id=13675&format=png",
-      },
+      // {
+      //   name: "Adobe Illustrator",
+      //   image:
+      //     "https://img.icons8.com/?size=96&id=13631&format=png",
+      // },
+      // {
+      //   name: "Adobe InDesign",
+      //   image:
+      //     "https://img.icons8.com/?size=96&id=13675&format=png",
+      // },
       
      
       {
@@ -335,11 +335,6 @@ export const skills = [
         image:
           "https://github.com/user-attachments/assets/3cac815c-a095-4949-9222-152e029fbd9d",
       },
-      {
-        name: "MongoDB Atlas",
-        image:
-          "https://creazilla-store.fra1.digitaloceanspaces.com/icons/3247796/mongodb-icon-md.png",
-      },
        ],
   },
  
@@ -396,6 +391,11 @@ export const skills = [
         image:
           "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
       },
+        {
+        name: "Postman",
+        image:
+          "https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png",
+      },
       {
         name: "VS Code",
         image:
@@ -406,11 +406,6 @@ export const skills = [
       //   image:
       //     "https://img.icons8.com/?size=96&id=y7WGoWNuIWac&format=png",
       // },
-      {
-        name: "Postman",
-        image:
-          "https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png",
-      },
       // {
       //   name: "BeautifulSoup",
       //   image:
