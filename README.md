@@ -4,13 +4,14 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 # Live Website: [Click Here](https://hassanraza-portfolio.netlify.app/)
 
 # Some Images
-<img width="1910" height="856" alt="image" src="https://github.com/user-attachments/assets/2b5c42b1-d3b3-4439-8f46-31ecb5bff943" />
 <img width="1920" height="871" alt="image" src="https://github.com/user-attachments/assets/443f1200-6db6-48ce-9e55-2626c94385d3" />
+<img width="1910" height="856" alt="image" src="https://github.com/user-attachments/assets/2b5c42b1-d3b3-4439-8f46-31ecb5bff943" />
 <img width="1920" height="872" alt="image" src="https://github.com/user-attachments/assets/cc07393a-d070-4806-bacf-25c9b4737c95" />
 <img width="1913" height="845" alt="image" src="https://github.com/user-attachments/assets/7d5a4ac3-c9fb-4dc6-a9aa-03109229c592" />
 <img width="1920" height="875" alt="image" src="https://github.com/user-attachments/assets/1ae5a089-dd75-4ac5-8617-63cc135ce3f1" />
 <img width="1920" height="867" alt="image" src="https://github.com/user-attachments/assets/84392ee9-2d6d-44c1-84fb-226e73816eaf" />
-<img width="1920" height="873" alt="image" src="https://github.com/user-attachments/assets/91adbe2b-5160-4f2c-98a2-efbf262df907" />
+<img width="960" height="219" alt="image" src="https://github.com/user-attachments/assets/9b6c7635-1220-44ca-bfc3-8088c274f3c0" />
+
 
 # Table of Contents
 
@@ -55,7 +56,7 @@ It provides an overview of my background, displays my projects, and offers a way
 To run this portfolio locally, follow these steps:
 
 1. Clone the repository:  
-   `git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git`
+   `git clone https://github.com/HassanRaza111-coder/My_Portfolio.git`
 
 2. Navigate to the project directory:  
    `cd My-portfolio`
