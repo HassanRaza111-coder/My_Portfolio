@@ -10,7 +10,8 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 <img width="1913" height="845" alt="image" src="https://github.com/user-attachments/assets/7d5a4ac3-c9fb-4dc6-a9aa-03109229c592" />
 <img width="1920" height="875" alt="image" src="https://github.com/user-attachments/assets/1ae5a089-dd75-4ac5-8617-63cc135ce3f1" />
 <img width="1920" height="867" alt="image" src="https://github.com/user-attachments/assets/84392ee9-2d6d-44c1-84fb-226e73816eaf" />
-<img width="960" height="219" alt="image" src="https://github.com/user-attachments/assets/9b6c7635-1220-44ca-bfc3-8088c274f3c0" />
+<img width="944" height="201" alt="image" src="https://github.com/user-attachments/assets/b575a058-f9b3-489e-b700-014b6d2fffbe" />
+
 
 
 # Table of Contents
