@@ -22,7 +22,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 - [Contributing](#contributing)
 - [License](#license)
 
----
+
 
 # Introduction
 My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements.  
@@ -37,9 +37,9 @@ It provides an overview of my background, displays my projects, and offers a way
 - Resume: A link to download my resume.  
 - Contact: A form to send me messages or inquiries.
 
----
 
-## ⚙Technologies Used
+
+# Technologies Used
 
 - React.js: A JavaScript library for building user interfaces  
 - HTML5 & CSS3: Markup and styling languages for building web pages  
@@ -48,9 +48,9 @@ It provides an overview of my background, displays my projects, and offers a way
 - Git: A version control system for tracking changes and collaborating on projects  
 - GitHub Pages: A platform for hosting and deploying web applications  
 
----
 
-## Installation
+
+# Installation
 
 To run this portfolio locally, follow these steps:
 
@@ -87,9 +87,9 @@ Contributions are welcome! If you'd like to contribute to *My Portfolio*, please
    `git push origin my-feature`  
 5. Open a pull request
 
----
 
-# 📄 License
+
+# License
 This project is licensed under the **MIT License**.
 
 
